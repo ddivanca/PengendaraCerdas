@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".RambuActivity">
+
+   <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:orientation="vertical"
+           android:background="#FFFFFF">
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/tikungan_ke_kiri"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Tikungan ke kiri"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="sebentar lagi arah depan akan ada tikungan ke kiri sekitar arah jam 10.30."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/tikungan_ke_kanan"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Tikungan ke kanan"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="tidak jauh lagi arah depan akan ada tikungan ke kanan dengan arah jam 1.30."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/tikungan_tajam_ke_kiri"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Tikungan tajam ke kiri"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="beberapa meter lagi ada tikungan tajam arah jam 9, sehingga kita mengharuskan untuk melambat agar bisa melewatinya dengan aman."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/tikungan_tajam_ke_kanan"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Tikungan tajam ke kanan"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="beberapa meter lagi ada tikungan tajam arah jam 3."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/tikungan_ganda_tikungan_pertama_kekiri"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Tikungan ganda, tikungan pertama ke kiri"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="pada rambu ini maka kita benar-benar disuruh untuk berhati-hati dalam melewati jalur depan yang tak lama lagi kita lewati di arah tikungan pertama kiri. Karena pada rambu ini, jalan yang kita lewati adalah tikungan ganda dan cukup berbahaya jika kita dalam keadaan laju cepat."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/tikungan_ganda_tikungan_pertama_kekanan"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Tikungan ganda, tikungan pertama ke kanan"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="pada rambu ini maka kita benar-benar disuruh untuk berhati-hati dalam melewati jalur depan yang tak lama lagi kita lewati di arah tikungan pertama kanan. Karena pada rambu ini, jalan yang kita lewati adalah tikungan ganda dan cukup berbahaya jika kita dalam keadaan laju cepat."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/banyak_tikungan"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Urutan beberapa tikungan, tikungan pertama ke kanan"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:textAlignment="center"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="pada rambu ini juga kita diingatkan bahwa jalur yang ada didepan yang akan kita lalui adalah bebrapa tikungan yang bertubi-tubi, sehingga kita harus melambat untuk melewati jalur ini."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/tikungan_memutar_ke_kanan"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Tikungan memutar ke kanan"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Sign ini berfungsi untuk memperingatkan pengguna jalan agar berhati-hati akan adanya potensi bahaya saat melintasi tikungan memutar ke arah kanan. Pemasangan sign ini bermanfaat untuk menciptakan ketertiban lalu lintas dan meminimalisasi angka kecelakaan lalu lintas yang dapat mengancam keselamatan jiwa pengguna jalan."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/penyempitan_di_kiri_dan_kananjalan"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Penyempitan di kiri dan kanan jalan"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="ambu yang menerangkan pengemudi akan melewati jalan yang menyempit di sisi  kanan dan kiri jalan."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/penyempitan_di_kananjalan"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Penyempitan di kanan jalan"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="rambu yang menerangkan pengemudi akan melewati jalan yang menyempit di sisi  kanan jalan."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/jembatan"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Jembatan atau Penyempitan di jembatan"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"
+                   android:layout_gravity="center"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Pemasangan sign ini bermanfaat sebagai peringatan perubahan kondisi situasi jalan guna meminimalisasi terjadinya kecelakaan lalu lintas yang dapat mengancam keselamatan jiwa pengguna jalan."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/turunan_landai"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Turunan landai"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Sign ini berfungsi untuk memperingatkan pengguna jalan agar berhati-hati akan adanya potensi bahaya saat melintasi turunan landai. Pemasangan sign ini bermanfaat untuk menciptakan ketertiban lalu lintas dan meminimalisasi angka kecelakaan lalu lintas yang dapat mengancam keselamatan jiwa pengguna jalan."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/turunan_curam"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Turunan curam"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Rambu yang menjelaskan kita akan melewati turunan yang cukup terjal atau curam."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/menanjak_landai"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Tanjakkan landai"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Sign ini berfungsi untuk memperingatkan pengguna jalan agar berhati-hati akan adanya potensi bahaya saat melintasi tanjakan landai. Pemasangan sign ini bermanfaat untuk menciptakan ketertiban lalu lintas dan meminimalisasi angka kecelakaan lalu lintas yang dapat mengancam keselamatan jiwa pengguna jalan."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/tanjakkan_curam"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Tanjakkan curam"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Sign ini berfungsi untuk memperingatkan pengguna jalan agar berhati-hati akan adanya potensi bahaya saat melintasi tanjakan curam. Pemasangan sign ini bermanfaat untuk menciptakan ketertiban lalu lintas dan meminimalisasi angka kecelakaan lalu lintas yang dapat mengancam keselamatan jiwa pengguna jalan."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/jalan_licin"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Jalan licin"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Rambu yang menerangkan pengemudi akan melewati jalan yang licin."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/jalan_cekung"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Jalan cekung"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Rambu yang menerangkan pengemudi akan melewati jalan yang licin."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/jalan_cembung_alat_pembatas_kecepatan"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Jalan cembung"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="rambu yang menerangkan pengemudi akan melewati jalan yang cembung, atau sebuah jembatan yang cembung."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/jalan_bergelombang"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Jalan bergelombang"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Sign ini berfungsi untuk memperingatkan pengguna jalan agar berhati-hati akan adanya potensi bahaya saat melintasi jalan bergelombang atau berbukit-bukit. Pemasangan sign ini bermanfaat sebagai peringatan kondisi jalan yang berbahaya guna meminimalisasi angka kecelakaan lalu lintas dan menciptakan ketertiban lalu lintas. Dipasang pada sisi jalan sebelum tempat atau bagian jalan yang berbahaya."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/lontaran_kerikil"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Lontaran kerikil"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Sign ini berfungsi untuk memperingatkan pengguna jalan agar berhati-hati akan adanya lontaran kerikil yang berasal dari permukaan jalan. Pemasangan sign ini bermanfaat sebagai peringatan kondisi jalan yang berbahaya guna meminimalisasi terjadinya kecelakaan lalu lintas yang dapat mengancam keselamatan jiwa pengguna jalan. "
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/rawan_longsor"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Rawan longsor"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="rambu yang menerangkan pengemudi akan melewati longsoran tanah atau batu yang berjatuhan"
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/lampu_lalu_lintas"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Lampu lalu lintas"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Sign ini berfungsi untuk mengatur kendaraan demi ketertiban berlalu lintas. Alat pemberi isyarat terdiri dari tiga warna, yaitu merah (berhenti), kuning (waspada), dan hijau (jalan terus). Pemasangan sign ini bermanfaat sebagai peringatan pengaturan persinyalan guna meminimalisasi angka kecelakaan lalu lintas yang dapat mengancam keselamatan jiwa pengguna jalan."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/dilarang_masuk"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Dilarang masuk"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Larangan masuk bagi semua kendaraan baik bermotor maupun tidak."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/sepeda_motor_dilarang_masuk"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Sepeda motor dilarang masuk"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Larangan masuk bagi pengendara sepeda motor."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"
+                   android:layout_gravity="center"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/mobil_dilarang_masuk"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Mobil dilarang masuk"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Larangan masuk bagi pengendara mobil."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/sepeda_dilarang_masuk"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Sepeda dilarang masuk"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Larangan masuk bagi pengendara sepeda."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"
+                   android:layout_gravity="center"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/kendaraan_bermotor_dilarang_masuk"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Kendaraan bermotor dilarang masuk"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Larangan masuk bagi pengendara kendaraan bermotor."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"
+                   android:layout_gravity="center"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/batas_ruang_lebar"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Batas ruang lebar"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Rambu lalu lintas larangan adalah rambu yang digunakan untuk menyatakan suatu perbuatan yang dilarang dilakukan oleh pengguna jalan. Rambu ini termasuk rambu larangan. Digunakan untuk memberitahukan pengguna jalan bahwa di area tertentu kendaraan bermotor dengan lebar lebih dari 2,9 m dilarang masuk.."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/batas_ketinggian"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Batas Ketinggian"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Rambu lalu lintas larangan adalah rambu yang digunakan untuk menyatakan suatu perbuatan yang dilarang dilakukan oleh pengguna jalan. Rambu ini termasuk rambu larangan. Digunakan untuk memberitahukan pengguna jalan bahwa di area tertentu kendaraan bermotor dengan tinggi lebih dari 4,2 m dilarang masuk."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/batas_tonase"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Batas tonase"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:textAlignment="center"
+                   android:text="Rambu lalu lintas larangan adalah rambu yang digunakan untuk menyatakan suatu perbuatan yang dilarang dilakukan oleh pengguna jalan. Rambu ini termasuk rambu larangan. Digunakan untuk memberitahukan pengguna jalan bahwa di area tertentu kendaraan bermotor dengan berat keseluruhan sama atau lebih dari 8 ton dilarang masuk."
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/batas_tonase_sumbu_muatan"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Batas tonase sumbu muatan"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Rambu lalu lintas larangan adalah rambu yang digunakan untuk menyatakan suatu perbuatan yang dilarang untuk dilakukan oleh pengguna jalan. Rambu ini termasuk rambu larangan. Digunakan untuk memberitahukan pengguna jalan bahwa di area tertentu kendaraan bermotor dengan beban sumbu sama atau lebih dari 8 ton dilarang masuk."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/dilarang_berhenti"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Dilarang berhenti"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Larangan untuk tidak memberhentikan kendaraannya di area tertentu."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/dilarang_parkir"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Dilarang parkir"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Larangan untuk pengendara bahwa tidak bolek memarkirkan kendaraannya di area tertentu."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/batas_kecepatan"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Batas kecepatan"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Rambu lalu lintas larangan adalah rambu yang digunakan untuk menyatakan suatu perbuatan yang dilarang dilakukan oleh pengguna jalan. Rambu ini termasuk rambu larangan. Digunakan untuk memberitahukan pengguna jalan bahwa di area tertentu mereka dilarang menjalankan kendaraan dengan kecepatan lebih dari 80 km/jam.."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+
+           <ImageView
+                   android:layout_width="90dp"
+                   android:layout_height="90dp"
+                   android:src="@drawable/batas_jarak_antar_kendaraan"
+                   android:layout_gravity="center"
+                   android:layout_marginTop="20dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Batas jarak antar kendaraan"
+                   android:textStyle="normal|italic|bold"
+                   android:textSize="18dp"
+                   android:layout_gravity="center"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"/>
+           <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Rambu ini digunakan untuk memberitahukan pengguna jalan bahwa dilarang untuk mendekati kendaraan di depannya dengan jarak sama atau kurang dari 25 m."
+                   android:textAlignment="center"
+                   android:textStyle="normal|italic"
+                   android:textSize="15dp"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginRight="10dp"
+                   android:layout_marginBottom="10dp"/>
+   </LinearLayout>
+</ScrollView>

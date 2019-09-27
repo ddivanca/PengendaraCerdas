@@ -1,0 +1,191 @@
+<resources>
+    <string name="app_name">Pengendara Cerdas</string>
+
+
+    <string name="pastikan_anda_fit">Sebelum anda bersepeda, pastikan anda dalam keadaan sehat dan tidak mengantuk,
+        karena kan berakibat fatal untuk anda nantinya. Jauhi juga pemakaian obat-obatan terlarang dan minuman berakohol
+        yang bisa mengganggu kesadaran anda. Usahakan untuk makan makanan bernutrisi.
+    </string>
+    <string name="pakai_helem">Pengendara sepeda wajib memakai helm saat mengendaai sepeda di jalan raya, sebab itu
+        dapat memberikan keamanan pada kepala anda dari benturan jika terjadi kecelakaan. Selain itu anda akan terlihat
+        keren saat memakai helm.
+    </string>
+    <string name="jangan_gunakan_headset">Kami menyarankan untuk tidak menggunakan headset saat bersepeda, sebab
+        konsentrasi akan terpecah dan akan berakibat fatal bagi rider.
+    </string>
+    <string name="pemilihan_pakaian_dan_jas_hujan">Ketika pengendara sepeda akan bersepeda di jalan raya, kami
+        menyarankan untuk memakai pakaian yang berwarna terang agar mudah terlihat pengendara lainnya. Dan saat musim
+        hujan pilihlah jas hujan yang tepat, maksudnya agar tidak mengganggu kenyamanan saat bersepeda.
+    </string>
+    <string name="posisi_tangan_direm_sepeda">Situasi dan kondisi di jalan raya tidak dapat diperhitungkan, oleh sebab
+        itu jari tangan anda harus selalu siap direm sepeda. Dengan begitu anda bisa langsung rem jika ada yang memotong
+        jalan anda, seperti yang sering terjadi oleh kendaraan mobil atau motor. Jadi, saat musim penghujan usahakan
+        jaga jarak dengan kendaraan lain di depan anda, sebab sistem pengereman kurang pakem akibat terkena air.
+    </string>
+    <string name="perhatikan_rambu_lalu_lintas">Semua kendaraan yang melalui jalur jalan raya wajib mematuhi rambu
+        lalin, begitu juga pesepeda. Dengan mematuhi rambu lalin kita akan lebih tenang saat bersepeda dan akan
+        meminimalisir kejadian fatal yang tidak kita semua inginkan.
+    </string>
+    <string name="peka_dengan_keadaan_sekitar_dan_bersabar">Saat bersepeda kita harus sabar dengan tidak menyalip dari
+        sebelah kiri, sebab kendaraan motor bisa kaget dengan keberadaan pesepeda yang mendadak, dan bisa saja terjadi
+        tebrakan yang membahayakan rider dan pengendara lain. Oleh karena itu kepekaan pada keadaan sekitar kita itu
+        sangat penting.
+    </string>
+    <string name="saling_menghargai">Kita harus saling menghargai dan menghormati dengan pengguna fasilitas umum,
+        seperti dengan pejalan kaki misalnya. Berikan ruang buat pejalan kaki, dan jangan serobot jalan khusus pejalan
+        kaki yaitu trotoar jalan.
+    </string>
+    <string name="tentukan_arah_dengan_bantuan_tangan_anda">angan adalah anugrah dari Tuhan, karena itu manfaatkan untuk
+        memberitahukan pengendara lain kalau anda akan berubah arah. Tips dan trik tambahan ini biasanya kesadaran
+        sendiri para rider untuk lebih aman saat kita hendak mengubah arah.
+    </string>
+    <string name="perhatikan_jalur_jalan">Sebelum berangkat bersepeda, tentukan dulu jalur yang akan anda lewati. Jangan
+        mengendarai sepeda berlawanan arus, sebab itu berbahaya untuk rider dan bisa berakibat fatal untuk rider.
+        Terkadang pengendara lainnya seperti motor maupun mobil menganggap sebelah mata pengendara sepeda gowes,
+        walaupun tidak semuanya.
+    </string>
+    <string name="rawat_sepeda_dengan_baik">Jika anda ingin bersepeda dengan aman dan nyaman, rawat sepeda kesayanagn
+        anda denagn baik dan teratur. Cek sistem rem, gir sepeda, lampu sepeda, dan ganti ban sepeda anda jika sudah
+        mulai gundul. Bagaimana cara merawat sepeda kesayangan anda cukup mudah dan sederhana, yang penting ada niat dan
+        tidak malas melaksanakannya.
+    </string>
+    <string name="gunakan_lampu_saat_bersepeda_dimalam_hari">Bersepeda dimalam hari sangat mengasyikan, dan agar
+        kegiatan mengendarai sepeda anda lebih aman dan nyaman tambahkanlah asesoris pada sepea anda yaitu lampu depan
+        dan belakang. Guananya sebagai penerang jalan agar anda dapat melihat kondisi jalan. Selain itu lampu juga
+        berfungsi agar anda terlihat oleh kendaraan lain saat besepeda dimalam hari.
+    </string>
+    <string name="berdoa">Yang tak kalah penting adalah dengan berdoa. Berdoalah sesuai keyakinan yang kita anut dan
+        percaya masing-masing, mintalah selalu perlindungan kepada-NYA. Agar kita selamat saat bersepeda dijalan raya.
+    </string>
+
+
+    <string name="pastikan_anda_sedang_dalam_kondisi_sadar_dan_fit_untuk_berkendara">Pastikan Anda sedang dalam kondisi
+        sadar dan fit untuk berkendara. Dalam arti, sebelumnya tidak mengonsumsi minuman beralkohol maupun obat-obatan
+        yang bisa membuat mabuk atau mengantuk.
+    </string>
+    <string name="pastikan_kondisi_kendaraan_anda_baik_dalam_arti_memenuhi_standar_untuk_berkendara">Pastikan kondisi
+        kendaraan Anda baik, dalam arti memenuhi standar untuk berkendara. Periksa lampu sein, kondisi rem, kopling,
+        gas, persneling, klakson, dan lampu terutama saat berkendara pada malam hari.
+    </string>
+    <string name="patuhi_aturan_mulai_dari_penggunaan_alat_alat_keselamatan">Patuhi aturan mulai dari penggunaan
+        alat-alat keselamatan; helm dan sabuk pengaman. Juga lupa membawa kartu identitas seperti KTP, SIM dan STNK.
+    </string>
+    <string name="berpikirlah_untuk_senantiasa_berhati_hati_dan_menjaga_diri">Berpikirlah untuk senantiasa berhati-hati
+        dan menjaga diri serta penumpang yang ikut bersama Anda dengan mematuhi setiap aturan berlalu lintas; lampu
+        merah, bunyi pengumuman saat melintas rel kereta api, sampai rambu-rambu tanda dilarang parkir, stop, memutar,
+        dan sebagainya. Ingatlah, ini demi keselamatan Anda sendiri. Nyawa Anda terlalu berharga untuk disia-siakan.
+    </string>
+    <string name="perhatikan_selalu_jarak_kendaraan">Perhatikan selalu jarak kendaraan Anda dengan kendaraan di depan
+        dan sekitar Anda. Lajukan kendaraan dengan kecepatan yang sesuai dengan kondisi jalan. Tidak terlalu pelan dan
+        juga tidak kebut-kebutan.
+    </string>
+    <string name="hormati_sesama_pengguna_jalan_raya">Hormati sesama pengguna jalan raya, mulai dari pengendara lain
+        sampai pejalan kaki. Beri ruang dan kesempatan untuk mereka yang akan memutar arah atau menyeberang. Hal itu
+        tidak akan membutuhkan waktu lama, apalagi menyita waktu Anda. Juga, gunakan klakson seperlunya agar tidak
+        mengganggu kenyamanan sesama pengguna jalan. Ingat, kesabaran dalam berdisiplin berlalu lintas sangat
+        diutamakan. Jika tak ingin terlambat sampai tujuan, sebaiknya Anda sudah mengatur waktu sejak dari rumah.
+    </string>
+    <string name="sebisa_mungkin_tidak_menggunakan_handphone_gadget">Sebisa mungkin tidak menggunakan handphone/gadget
+        saat berkendara karena dapat mengganggu konsentrasi. Apabila terpaksa, Anda sebaiknya menepi dan menghentikan
+        kendaraan.
+    </string>
+    <string name="memfokuskan_pikiran_ke_jalanan">Memfokuskan pikiran ke jalanan. Tidak melakukan sesuatu yang
+        membahayakan sambil berkendara, seperti mengambil barang yang jatuh di lantai atau menengok ke arah selain jalan
+        sambil menyetir.
+    </string>
+    <string name="lengkapi_surat_surat">SIM menjadi bukti kompetensi mengemudi. Dengan mengantongi SIM, pengemudi
+        dianggap sudah bisa mengendarai kendaraan bermotor dan sudah memahami tata cara berlalu lintas. Selain itu, SIM
+        berfungsi sebagai registrasi pengemudi kendaraan bermotor yang memuat keterangan identitas pengemudi. Serta,
+        data pada registrasi pengemudi dapat digunakan untuk mendukung kegiatan penyelidikan, penyidikan, dan
+        identifikasi forensik kepolisian.
+    </string>
+    <string name="selalu_gunakan_helm_ketika_berkendara">Penggunaan helm adalah hal yang penting dalam berkendara sepeda
+        motor. Pihak kepolisian hingga buku panduan yang kamu dapatkan ketika membeli sebuah sepeda motor juga sudah
+        “berbusa” menyampaikan kepada kamu pentingnya menggunakan helm. Namun, entah kenapa ada saja para pengendara
+        yang lalu-lalang di jalanan tanpa menggunakan pelindung kepala ini.
+    </string>
+    <string name="selalu_gunakan_helm_ketika_berkendara2">Kamu boleh saja tak menggunakan helm ketika mengendarai motor
+        di komplek atau lingkungan perumahan setempat. Hanya saja alangkah baiknya ketika motor kamu sudah menggelinding
+        ke jalan raya, selalu gunakan helm. Sungguh, ketika polisi menyarankan kamu untuk menggunakan helm, itu bukan
+        dimaksudkan agar kamu terhindar dari tilangan, namun untuk mereduksi hal-hal buruk yang sewaktu-waktu bisa
+        terjadi kepada kamu selama berkendara. Aspal pun nggak jadi empuk ketika kamu jatuh di sekitar rumah.
+    </string>
+    <string name="jangan_ngerem_mendadak_ambil_ancang_ancang_untuk_berhenti">Sangat disarankan supaya kamu mengambil
+        ancang-ancang dengan cara memperlambat tempo kecepatan motor secara halus dan teratur ketika ingin berhenti atau
+        menepi. Tindakan ini dapat memicu pengguna kendaraan lain di belakang kita untuk waspada. Kamu juga wajib
+        menggunakan bantuan lampu sign ketika ingin berhenti.
+    </string>
+    <string name="selalu_gunakan_lampu_sign_ketika_berbelok_atau_ingin_berhenti">Lampu sign atau lampu sein menjadi
+        komponen yang teramat penting untuk difungsikan ketika berkendara. Lampu sign bukan hanya digunakan ketika kita
+        ingin berhenti saja. Dengan adanya lampu ini, pengendara lain, baik itu di depan maupun di belakang kita, bisa
+        tahu mau ke mana kita akan berbelok arah.
+    </string>
+
+
+    <string name="periksa_kendaraan_secara_berkala">Layaknya tubuh, mobil juga butuh check-up. Lakukan pemeriksaan
+        berkala di bengkel, apakah ada masalah pada mesin, ban, rem, dan sebagainya. Jangan tunggu sampai kendaraan Anda
+        bermasalah di jalan.
+    </string>
+    <string name="kenali_diri">Ketika Anda dibawah pengaruh alkohol, merasa mengantuk, minum obat yang membuat ngantuk,
+        atau merasa tidak enak badan, maka jangan menyetir. Jika Anda memaksakan diri untuk menyetir maka resikonya
+        sangat luar biasa – baik bagi diri sendiri maupun orang lain. Kalau Anda memiliki rabun ayam, hindari menyetir
+        setelah gelap.
+    </string>
+    <string name="atur_posisi_mengemudi">sebaiknya atur lebih dahulu posisi duduk kamu bagaimana yang nyaman serta tidak
+        buat anda jadi pegal, Kram dan selainnya. Agar di perjalanan lebih aman dan nyaman serta terhindar dari hal hal
+        yang tidak di inginkan.
+    </string>
+    <string name="pakai_sabuk_pengaman">Bila anda menggunakan mobil jangan sampai lupa untuk menggunakan Sabuk pengaman,
+        sabuk pengaman ini peranannya bukanlah untuk hiasan namun membuat perlindungan kita dari bahaya yg tidak
+        diinginkan.
+    </string>
+    <string name="ikuti_arus_lalu_lintas">Pengendara yang disiplin harus ikuti arus jalan raya dan ramb-rambu yang benar
+        sesuai dengan ketentuan. Karna bila anda tidak mematuhi ketentuan jalan raya mungkin saja kamu dijerat pasal
+        hukum serta Undang-undang tentang Transpotasi. Tidak cuma itu saja, dengan menaati ketetapan jalan raya yang ada
+        kamu akan terlepas dari banyak hal yg tidak diinginkan.
+    </string>
+    <string name="perlahan_tapi_pasti">Jagalah kecepatan stabil untuk menghindari tabrakan dengan mobil lain atau
+        pejalan kaki. Tetapi jangan juga melaju terlalu lambat sehingga menghambat pengendara lain – itu sama
+        berbahayanya.
+    </string>
+    <string name="gunakan_rem_pada_saat_yang_tepat">Kurangi kecepatan sebelum memasuki tikungan. Mengerem saat anda
+        berada di tengah-tengah tikungan dapat mengurangi keseimbangan kendaraan. Begitu pula, turunkan gigi transmisi
+        sebelum memasuki tikungan. Coba dulu sistem anti-lock brake (ABS) kendaraan. Bila mobil dilengkapi ABS, Anda
+        mungkin dikejutkan dengan getaran dan suara aneh dari pedal rem ketika mendadak diinjak.
+    </string>
+    <string name="gunakan_rem_pada_saat_yang_tepat2">Jangan tunggu sampai terjadi keadaan darurat. Pada saat hujan,
+        carilah jalan yang licin dan benar-benar kosong atau pelataran parkir yang kosong dan injaklah rem
+        sekuat-kuatnya sampai ABS bekerja, jadi Anda bisa tahu bagaimana rasanya. Anda juga dapat melakukan hal ini
+        dengan sistem rem biasa untuk memeriksa apakah pengereman cukup seimbang dan tidak menarik ke satu sisi.
+    </string>
+    <string name="atur_kecepatan_berkendara">Berkendara dengan kecepatan tinggi memang bisa tapi cermati pengendara lain
+        yang berada di samping kanan kiri, Mereka juga memerlukan jalan sebagia kendaraan mereka.
+    </string>
+    <string name="jangan_bermain_telepon_genggam">Dengan teknologi di ujung jemari, “distracted driving” atau menyetir
+        dengan perhatian yang terbelah semakin meningkat karena pengemudi cenderung memegang telepon genggam sambil di
+        jalan.
+    </string>
+    <string name="jangan_bermain_telepon_genggam2">Larangan penggunaan telepon genggam saat mengemudi, secara spesifik
+        tidak diatur dalam UU No 22 Tahun 2009. Tapi, pengendara (yang menggunakan telepon genggam) bisa terjerat pasal
+        106 ayat 1 tentang pengemudi wajib mengendarai kendaraan dengan penuh konsentrasi.
+    </string>
+    <string name="jangan_bermain_telepon_genggam3">Pengertian wajib mengendarai dengan penuh konsenterasi, mencakup
+        melarang kegiatan-kegiatan yang mengganggu konsentrasi berkendara. Misalnya minum-minuman keras saat berkendara,
+        mengkonsumsi obat terlarang dan menggunakan telepon genggam. Pastikan kedua tangan Anda harus senantiasa ada di
+        roda kemudi.
+    </string>
+    <string name="jangan_membawa_beban_secara_berlebihan">Mengemudikan mobil dengan beban berlebih tentu tidak baik,
+        selain mengganggu keseimbangan juga akan memboroskan bahan bakar, untuk itu sebaiknya pindahkan berbagai
+        barang-barang yang kurang penting dari dalam kendaraan anda. nah jika memang ada banyak barang atau benda yang
+        harus anda bawa maka sewalah mobil jasa pengangkut untuk membawa barang barang anda demi kenyamanan dan keamanan
+        saat berkendara.
+    </string>
+    <string name="bila_mengalami_kecelakaan">Berhentikan kendaraan dengan segera jika Anda terlibat dalam kecelakaan
+        lalu lintas. Ketahui hak-hak asuransi Anda dan mintalah kontak pihak lain yang juga terlibat kecelakaan. Jika
+        ada cedera, segera telepon 112 untuk pertolongan.
+    </string>
+
+
+    <string name="about">Pengendara Cerdas merupakan aplikasi edukasi yang dibuat untuk memberikan pengetahuan dasar bagi pengguna tentang bagaimana menjadi pengendara yang cerdas mengetahui peraturan, kelengkapan, dan keselamatan saat berkendara di jalan raya.</string>
+
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pengendara Cerdas"
+            android:textSize="30sp"
+            android:layout_marginTop="70dp"
+            android:textColor="#FFFFFF"
+            android:layout_gravity="center_horizontal"/>
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="500dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:orientation="vertical"
+                android:gravity="center">
+            <Button
+                    android:id="@+id/btnRambu"
+                    android:layout_width="match_parent"
+                    android:layout_height="90dp"
+                    android:text="Rambu Rambu Lalu lintas"/>
+            <Button
+                    android:id="@+id/btnKelengkapan"
+                    android:layout_marginTop="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="90dp"
+                    android:text="Kelengkapan Berkendara"/>
+            <Button
+                android:id="@+id/btnTipsberkendarayangbaik"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:text="Tips berkendara yang baik"/>
+            <Button
+                    android:id="@+id/btnAbout"
+                    android:layout_marginTop="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="90dp"
+                    android:text="About"/>
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".PengendarasepedaActivity">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="#FFFFFF">
+
+        <ImageView
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:src="@drawable/kacamata_sepeda"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="10dp"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kacamata atau Pelindung Mata"
+                android:textStyle="normal|italic|bold"
+                android:textSize="18dp"
+                android:layout_gravity="center"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Jika Anda hendak bersepeda, maka sebaiknya persiapkan diri Anda dengan kacamata atau pelindung mata. Tentu saja karena kacamata dapat untuk mencegah angin mengganggu mata Anda, pasir, serangga saat bersepeda, debu, sinar matahari, dan debu yang akan dapat mengganggu kenyamanan Anda."
+                android:textAlignment="gravity"
+                android:textStyle="normal|italic"
+                android:textSize="15dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sebaiknya siapkan dua kacamata, jika Anda bersepeda di pagi sampai sore hari sebaiknya memakai kacamata matahari (sun glasses) agar dapat terhindar dari silaunya matahari. Sedangkan di waktu malam gantilah pelindung mata yang bening agar dapat melihat dengan jelas."
+                android:textAlignment="gravity"
+                android:textStyle="normal|italic"
+                android:textSize="15dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"/>
+        <ImageView
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:src="@drawable/kaos_kaki_sepeda"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kaos Kaki"
+                android:textStyle="normal|italic|bold"
+                android:textSize="18dp"
+                android:layout_gravity="center"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Untuk dapat meningkatkan performa Anda bersepeda maka kaos kaki menjadi hal yang sangat penting. Tentu saja rasa nyaman menjadi faktpr utama, terlebih kaos kaki dapat menghindari diri dari kaki melepuh."
+                android:textAlignment="gravity"
+                android:textStyle="normal|italic"
+                android:textSize="15dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Oleh karena itu, pakailah kaos kaki yang terbuat dari bahan yang bisa kurangi panas pada kaki serta sebaiknya juga bisa mencegah kaki dari kedinginan jika ternyata udara di sekitar perjalanan Anda sedang sangat dingin."
+                android:textAlignment="gravity"
+                android:textStyle="normal|italic"
+                android:textSize="15dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"/>
+        <ImageView
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:src="@drawable/sarung_tangan_sepeda"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sarung Tangan"
+                android:textStyle="normal|italic|bold"
+                android:textSize="18dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sarung tangan pun dapat memberikan kenyamanan serta perlindungan pada tangan terlebih ketika Anda sedang bersepeda jarak jauh. Tentu saja kegunaan sarung tangan ialah untuk melindungi permukaan tangan di saat Anda terjatuh, selain itu dapat menambah daya cengkeram pada setang, serta dapat menghangatkan tangan."
+                android:textAlignment="gravity"
+                android:textStyle="normal|italic"
+                android:textSize="15dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"/>
+
+        <ImageView
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:src="@drawable/helm_sepeda"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Helm"
+                android:textStyle="normal|italic|bold"
+                android:textSize="18dp"
+                android:layout_gravity="center"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Helm khusus bersepeda adalah perlengkapan wajib nomor satu saat bersepeda. Helm mampu mencegah kondisi cedera fatal pada kepala seperti gegar otak akibat kecelakaan. Pilihlah helm yang sesuai ukuran kepala Anda dan kenakan dengan benar."
+                android:textAlignment="gravity"
+                android:textStyle="normal|italic"
+                android:textSize="15dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"/>
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".PengendaramotorActivity">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="#FFFFFF">
+
+            <ImageView
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
+                    android:src="@drawable/helm_bermotor"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Helmet (Pelindung Kepala)"
+                    android:textStyle="normal|italic|bold"
+                    android:textSize="18dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ada berbagai macam dan jenis helm yang tersedia di pasaran, Sebenarnya dalam memilih sebuah safety helmet, kita hanya memerlukan 2 (dua) kriteria saja, yaitu : nyaman dan aman. Nyaman pada saat kita kenakan dan aman dengan memilih helmet yang sudah bertanda “DOT” pada (biasanya ) bagian dalamnya . tidak di anjurkan pemakaian helm proyek/helm cebok untuk dipakai berkendara roda dua. Helmet jenis half face pun sebisanya dihindari untuk perjalanan ke luar kota."
+                    android:textAlignment="gravity"
+                    android:textStyle="normal|italic"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Penggunaan Helm ini telah diatur dalam UU No. 22 Tahun 2009 BAB VII Bagian Keempat Pasal 57 Ayat 2; BAB IX tenteng Lalu Lintas Bagian Keempat Paragraf 1 Pasal 106 ayat 8 dan 9 serta Ketentuan Pidana sesuai BAB XX Pasal 291 ayat 1 dan 2 dan Pasal 292 ."
+                    android:textAlignment="gravity"
+                    android:textStyle="normal|italic"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"/>
+
+            <ImageView
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
+                    android:src="@drawable/jaket_bermotor"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Jaket"
+                    android:textStyle="normal|italic|bold"
+                    android:textSize="18dp"
+                    android:layout_gravity="center"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Sekarang ini jaket hadir dalam berbagai macam bahan, warna dan model. Pilihlah jaket yang nyaman dan aman untuk keperluan anda. Tentunya pada perjalanan jauh, kita tidak mung kin membawa berbagai jakel dengan berbagai bahan. Pilihlah yang menyerap keringat dan tidak tembus angin. Kami sangat merekomendasikan jenis dari bahan Gore-Tex atau Cordura yang tahan gesekan dan air yang dilapisi dengan bahan katun di sisi dalamnya. Pemasangan protector pada pundak, punggung , siku dan sepanjang tulang tangan sangatlah baik untuk meredam benturan yang terjadi pada saat kecelakaan."
+                    android:textAlignment="gravity"
+                    android:textStyle="normal|italic"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"/>
+
+            <ImageView
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
+                    android:src="@drawable/celana_bermotor"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Celana"
+                    android:textStyle="normal|italic|bold"
+                    android:textSize="15dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Penggunaan celana sangat dianjurkan yang terbuat dari bahan yang tebal , seperti jeans, soft canvas, kulit Gore-lex dan cordura. Tiga bahan yang disebutkan terakhir memiliki daya tahan gesekan yang lumayan baik. Hanya saja kekurangannya, tidak terlalu nyaman dipakai pada saat matahari sedang terik. Untuk menyiasati hal ini, biasanya dipasanglah lapisan dari bahan katun disisi dalam, agar dapat menyerap keringat dengan baik. Untuk celana touring buatan pabrik, biasanya juga sudah dipasangkan beberapa pelindung tubuh, antara lain di daerah belakang untuk melindungi tulang ekor, pinggul samping, lutut dan tulang kering ."
+                    android:textAlignment="gravity"
+                    android:textStyle="normal|italic"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"/>
+
+            <ImageView
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
+                    android:src="@drawable/sepatu_bermotor"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Sepatu"
+                    android:textStyle="normal|italic|bold"
+                    android:textSize="18dp"
+                    android:layout_gravity="center"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Pilihan sepatu yang benar untuk berkendara motor tidak hanya nyaman dipakai, tapi yang paling penting adalah lunaknya bagian sendi engkel bagian depan. Sebaiknya menggunakan sepatu safety yang sudah memenuhi standar ISO. Hal ini dimaksudkan pada saat anda melakukan “panic break” (pengereman mend adak), kaki anda akan langsung menyalurkan tenaga ke tuas rem secara baik dan tidak tertahan di ‘keras ‘nya sepatu."
+                    android:textAlignment="gravity"
+                    android:textStyle="normal|italic"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Klasifikasi yang memenuhi syarat nyaman dan aman untuk sepatu seperti, sepatu haruslah tinggi dan melewati mata kaki dan berpelindung tepat pada mata kaki, diusahakan tidak bertali, nyaman dipakai, terbuat dari bahan alami atau terbuat dari kulit, sol sepatu terbuat dari bahan karet, agar tidak licin, mempunyai pelindung di ujung jari kaki atau toe cap, mempunyai angka ukuran yang 1 (satu) tabel lebih tinggi dari ukuran kaki kita, biasanya kita akan mengalami pembengkakan pada kaki pada saat kita melakukan perjalanan jauh, mempunyai sirkulasi udara yang baik dan mempunyai lapisan lembut disisi dalamnya."
+                    android:textAlignment="gravity"
+                    android:textStyle="normal|italic"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"/>
+
+            <ImageView
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
+                    android:src="@drawable/sarung_tangan_bermotor"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Sarung Tangan"
+                    android:textStyle="normal|italic|bold"
+                    android:textSize="18dp"
+                    android:layout_gravity="center"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Selain sebagai pelindung tangan dan jari pada saat udara dingin dan hujan, Glove juga berfungsi sebagai peredam resiko pada saat terjadi kecelakaan. Sadar atau pun tidak biasanya pada saat te rjadi kecelakaan, telapak tanganlah yang akan menyentuh aspal dan menahan tu buh kita pertama kali. Sama seperti pelindung tubuh lain, glove ini juga bisa dibuat dari berbagai macam bahan, warn a dan bentuk yang menarik. Sementara ini di pasaran, paling banyak tersedia adalah dari bahan ku lit dan synthetic. Pilihlah yang berbahan kulit. karena bahan kulit tidak meneruskan sifat ‘panas’ ke te lapak tangan pada saat ada pergesekan dengan permukaan jalan."
+                    android:textAlignment="gravity"
+                    android:textStyle="normal|italic"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bahan synthetic, selain tidak terlalu kuat, dia juga akan menimbulkan rasa panas pada ku lit tangan kita. Saran kami, pilihlah glove panjang dari bahan kulit yang mempunyai pelindung Serat Karbon dan Kevlar pada buku-bukujari."
+                android:textAlignment="gravity"
+                android:textStyle="normal|italic"
+                android:textSize="15dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="5dp"/>
+    </LinearLayout>
+
+</ScrollView>

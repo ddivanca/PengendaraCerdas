@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".PengendaramobilActivity">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="#FFFFFF">
+
+        <ImageView
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:src="@drawable/sabuk_pengaman"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sabuk pengaman"
+                android:textStyle="normal|italic|bold"
+                android:textSize="18dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sabuk pengaman adalah sebuah alat yang dirancang untuk menahan seorang penumpang mobil atau kendaraan lainnya agar tetap di tempat apabila terjadi tabrakan, atau, yang lebih lazim terjadi, bila kendaraan itu berhenti mendadak."
+                android:textAlignment="gravity"
+                android:textStyle="normal|italic"
+                android:textSize="15dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"/>
+
+            <ImageView
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
+                    android:src="@drawable/ban_cadangan"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ban cadangan"
+                    android:textStyle="normal|italic|bold"
+                    android:textSize="18dp"
+                    android:layout_gravity="center"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Setiap kendaraan  berjenis roda empat sudah pasti dilengkapi dengan ban cadangan. Meski sudah menjadi perlengkapan standar, kondisi ban cadangan wajib Anda perhatikan agar kondisi ban cadangan prima di saat Anda membutuhkannya. Beberapa cara yang bisa Anda lakukan adalah pengecekan tekanan angin setiap bulan, pengecekan kondisi alur ban, dan perawatan dengan menggunakan semir ban."
+                    android:textAlignment="gravity"
+                    android:textStyle="normal|italic"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"/>
+
+            <ImageView
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
+                    android:src="@drawable/dongkrak_mobil"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Dongkrak mobil"
+                    android:textStyle="normal|italic|bold"
+                    android:textSize="18dp"
+                    android:layout_gravity="center"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Piranti ini sejatinya berlaku untuk kendaraan berjenis roda empat. Dongkrak sendiri berfungsi sebagai alat untuk mengangkat mobil. Terdapat beragam jenis dongkrak yang bisa Anda temui di pasaran, dari mulai dongkrak botol, dongkrak gunting, hingga dongkrak buaya."
+                    android:textAlignment="gravity"
+                    android:textStyle="normal|italic"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"/>
+
+            <ImageView
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
+                    android:src="@drawable/segitiga_pengaman"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Segitiga pengaman"
+                    android:textStyle="normal|italic|bold"
+                    android:textSize="18dp"
+                    android:layout_gravity="center"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Rambu segitiga pengaman ini memiliki fungsi sangat penting jika kondisi kendaraan Anda berada kondisi darurat. Pasalnya, dengan keberadaan segitiga pengaman ini, pengguna jalan bisa lebih berhati-hati saat melewati Anda. Untuk penempatan segitiga pengaman sekitar 10 hingga 20 meter, serta pastikan penempatan segitiga pengaman tidak menghalangi jalan dan masih mudah dilihat oleh pengguna jalan."
+                    android:textAlignment="gravity"
+                    android:textStyle="normal|italic"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"/>
+
+            <ImageView
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
+                    android:src="@drawable/pembuka_roda"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Pembuka roda / Kunci roda"
+                    android:textStyle="normal|italic|bold"
+                    android:textSize="18dp"
+                    android:layout_gravity="center"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Fungsi kunci roda pada dasarnya adalah membuka dan mengunci mur roda pada kendaraan Anda. Di pasaran biasanya tersedia kunci roda palang, kunci roda L, dan kunci roda engkol. Bahkan saat ini mulai tersedia kunci roda elektrik yang mampu memudahkan pekerjaan Anda."
+                    android:textAlignment="gravity"
+                    android:textStyle="normal|italic"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Bahan synthetic, selain tidak terlalu kuat, dia juga akan menimbulkan rasa panas pada ku lit tangan kita. Saran kami, pilihlah glove panjang dari bahan kulit yang mempunyai pelindung Serat Karbon dan Kevlar pada buku-bukujari."
+                    android:textAlignment="gravity"
+                    android:textStyle="normal|italic"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"/>
+
+            <ImageView
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
+                    android:src="@drawable/kotak_p3k"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Kotak P3K"
+                    android:textStyle="normal|italic|bold"
+                    android:textSize="18dp"
+                    android:layout_gravity="center"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Kotak P3K ini wajib tersedia untuk menjaga keselamatan Anda sendiri. Sebab, jika Anda mengalami kecelakaan di kala memperbaiki kendaraan Anda, maka kotak P3K bisa menjadi penyelamat pertama Anda sebelum menuju klinik atau Rumah Sakit terdekat. Biasanya kota P3K berisikan alkohol, kapas, perban, kain segitiga, betadine, cotton bud, dan obat-obatan penting."
+                    android:textAlignment="gravity"
+                    android:textStyle="normal|italic"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"/>
+
+            <ImageView
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
+                    android:src="@drawable/apar_mobil"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Alat pemadam api ringan"
+                    android:textStyle="normal|italic|bold"
+                    android:textSize="18dp"
+                    android:layout_gravity="center"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Jika kendaraan Anda mengalami kebakaran akibat satu dan lain hal, alangkah baiknya menggunakan alat pemadam ini. Pasalnya, dengan material khusus yang terkandung di dalamnya, untuk kebakaran berjenis kecil bisa segera padam dan tidak memberikan kerusakan berarti di kendaraan Anda. Pastinya, memadamkan api yang menyala dengan alat pemadam api ringan jauh lebih aman ketimbang memadamkannya dengan air biasa."
+                    android:textAlignment="gravity"
+                    android:textStyle="normal|italic"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"/>
+
+            <ImageView
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
+                    android:src="@drawable/tool_kit"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Tool kit"
+                    android:textStyle="normal|italic|bold"
+                    android:textSize="18dp"
+                    android:layout_gravity="center"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Tool kit adalah salah satu perangkat serbaguna yang bisa membantu memperbaiki kendaraan Anda dengan cepat dan mudah.Tool kit yang digunakan pada kendaraan bermotor biasanya berisikan obeng, tang, kunci inggris, kunci pas, selotip, lem besi, lakban, pisau/cutter, senter, dan beberapa perangkat penting lainnya."
+                    android:textAlignment="gravity"
+                    android:textStyle="normal|italic"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginBottom="10dp"/>
+
+    </LinearLayout>
+
+</ScrollView>
